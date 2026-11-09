@@ -4,7 +4,7 @@ Week 13 Mini Project: Build a Tabs component that displays the content of the se
 
  Features
 
-- Built with React only (no additional packages)
+- Built with React and Vite (no additional packages)
 - Switch content by clicking on tab titles
 - Highlight the active tab with an underline
 - Save the last selected tab using `localStorage`
