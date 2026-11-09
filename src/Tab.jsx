@@ -24,7 +24,7 @@ const tabs = [
   {
     id: 4,
     title: "Tab4",
-    content: "Content 4",
+    content: "Content4",
     description: lorem,
   },
 ];
