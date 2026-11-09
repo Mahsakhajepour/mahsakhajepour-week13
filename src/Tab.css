@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    max-width: none;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color:#2196f3;
+    color: #fff;
+    text-align: left;
+    padding: 20px 15px;
+}
+
+.list{
+    display: flex;
+    gap: 1rem;
+}
+
+.tab{
+    cursor: pointer;
+    color: aliceblue;
+    padding: 15px 15px;
+    border-bottom: 2px solid;
+}
+
+.tab.active {
+    border-bottom-color: #1565c0;
+}
+
+.content{
+    background-color: #1976d2;
+    color: #fff;
+    padding: 25px;
+    min-height: 250px;
+}
